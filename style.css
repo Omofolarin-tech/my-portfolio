@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 25%;
+    padding-left: 60%;
+    margin-bottom: 400px;
+    /* border-radius: 200%; */
+    
+}
+
+/* .folio{
+    margin-left: 20%;
+    border: 3px solid black;
+} */
+
+nav{
+    background-color: black;
+    /* background-color: rgba(255, 255, 255, 0.541); */
+    box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.548);
+}
+
+
+.dairo{
+    background-color: white;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    font-size: larger;
+}
+
+nav li{
+    height: 50px;
+}
+
+
+nav a{
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+/* nav a:hover{
+    background-color:  #f0f0f0;;
+} */
+
+aside{
+    padding-left: 80px;
+}
+
+body{
+    background-color: #565554;
+}
